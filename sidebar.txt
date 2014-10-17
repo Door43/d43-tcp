@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcp:home|Door43 (tcp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcp|d43-tcp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcp/archive/master.zip|d43-tcp.zip]]
+
+**Recent Changes**
+{{changes>ns = tcp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcp|Ethnologue data]]
+
